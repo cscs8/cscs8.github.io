@@ -22,7 +22,10 @@
 
 #### Table
 |a|b|c|
-|--|--|--|
+|:--|:--:|--:|
 |A|B|C|
 
+
+#### Link 2
+[to Welcome!](#Welcome!)
 
