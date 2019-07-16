@@ -8,6 +8,38 @@
 
 ---
 
+#### やった
+
+##### 技術
+
+  - RESTful API
+  - Java SE 8(lambda, stream, Optional, CompletableFuture)
+  - Jersey 2.x
+  - JUnit 4
+  - gradle 4.3
+  - lombok 1.16
+  - javascript
+  - Servlet & JSP
+  - html
+  - css
+  - Oracle Database 10g, 11g, 12c
+  - Oracle Weblogic Server
+  - Apache Tomcat 8
+  - Excel VBA
+  
+##### プロジェクト
+
+ - 大手公共
+  →要件定義フェーズより参画(画面モック)
+ - 大手公共
+  →SQLパフォーマンスチューニング
+ - 大手金融
+  →shell
+ - 金融
+  →RESTful API
+
+---
+
 #### I want to make　作りたい
 
  - Pomodoro tracker(time tracker)( comming soon. )
@@ -34,21 +66,6 @@
  - GraphQL
  - atcoder
  
- #### やった
- 
-  - RESTful API
-  - Java SE 8(lambda, stream, Optional, CompletableFuture)
-  - gradle 4.3
-  - lombok 1.16
-  - javascript
-  - Servlet & JSP
-  - html
-  - css
-  - Oracle Database 10g, 11g, 12c
-  - Oracle Weblogic Server
-  - Apache Tomcat 8
-  - Excel VBA
-  
 
 ---
 
