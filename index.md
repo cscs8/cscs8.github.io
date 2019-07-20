@@ -42,21 +42,23 @@
 
 #### I want to make　作りたい
 
+ - (new!)記事自動投稿サービス → ローカルで保存したファイルを自動で記事投稿したい.
  - Pomodoro tracker(time tracker)( comming soon. )
  - 電卓アプリ( comming soon. )
  - ノノグラム ピクセルロジック picross お絵描きロジック的なもの( comming soon. )
  - 名刺作成アプリ( comming soon. )
  - Todoアプリ( comming soon. )
- - キュレーションサイト( comming soon. )
- 　⇒（日産マーチ限定）→後に入力したキーワードで情報を集められるようになりたい.
+ - キュレーションサイト( comming soon. ) ⇒（日産マーチ限定）→後に入力したキーワードで情報を集められるようになりたい.
+ 
 
 #### I want to do　やりたい
 
- - GitHub
- - Go
+ - Git
  - AWS or GCP
  - 動的型付けスクリプト言語
+  - javascript
  - 静的型付け関数型コンパイル言語
+  - Go
  - DevOps
   - CircleCI
   - Ansible
